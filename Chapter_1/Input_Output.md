@@ -1,4 +1,4 @@
-# Assignment 02a
+# Assignment 01
 
 Get some practice inputting numbers and doing calculations. Type in two numbers, and show the results of adding, subtracting, multiplying, and dividing the numbers. (What happens to the program if the user tries to divide by zero?)
 
