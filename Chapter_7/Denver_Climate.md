@@ -1,4 +1,4 @@
-# Assignment Extra Credit
+# Denver Climate
 
 The file **Denver_climate.txt** contains precipitation totals for each year from 2000 to 2018. Write a function called `rain_data()` that will read the file and return the total rainfall for all of the years combined.
 
