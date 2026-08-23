@@ -1,4 +1,4 @@
-# Assignment 02
+# Split the Bill
 
 Write a program that will help a group of people splitting a bill at a restaurant decide how much each person should pay. The program should allow the user to enter the bill, the amount the user wish to tip, and the number of people and print a message indicating how much each person should contribute.
 
