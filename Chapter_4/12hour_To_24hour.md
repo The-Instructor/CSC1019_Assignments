@@ -1,4 +1,4 @@
-# Assignment 06
+# 12-Hour to 24-Hour
 
 There are two common ways of recording time, 12 hour time and 24 hours time. In 12 hour time, we use AM to denote times before noon and PM to denote times after noon. In 24 hour time, we just keep counting until midnight. So 1 PM becomes 13:00, 2 PM is 14:00, etc.
 
