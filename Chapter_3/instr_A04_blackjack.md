@@ -1,4 +1,4 @@
-# Assignment 04
+# Blackjack
 
 In the game of blackjack, the player is dealt two cards. The total value of the cards is determined by their rank - numeric cards are worth the number on the card, face cards (Jack, Queen, and King) are worth 10, and aces are worth either 1 or 11 (for the purposes of this program, assume aces are equal to 11). The player decides whether they want to ask for additional cards (being dealt another card is know as a hit); the goal of the game is to get as close to 21 as possible without going over.
 
