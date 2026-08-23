@@ -1,4 +1,4 @@
-# Practice 04
+# Practice 04 Booster Seat
 
 Booster seats that children use to make a car safer typically have both a height and weight requirement. For instance, the Mifold booster seat requires a height between 40 and 57 inches and a weight between 40 and 100 pounds. Write a program that allows the user to input the height and weight of a child and outputs whether this booster seat is safe for the child to use. If it isn't, it should indicate whether the child doesn't meet the height requirement, the weight requirement, or both height and weight.
 
