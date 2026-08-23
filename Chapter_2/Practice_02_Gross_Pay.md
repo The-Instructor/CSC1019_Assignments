@@ -1,4 +1,4 @@
-# Practice 02
+# Practice 02 Gross Pay
 
 Write a program to prompt the user for hours and rate per hour using input to compute gross pay. Use 35 hours and a rate of 12.56 per hour to test the program (the pay should be 439.60). You should use input to read a `string` and then use `int()` or `float()` to convert the string to the appropriate number. Do not worry about error checking or bad user data at this time.
 
