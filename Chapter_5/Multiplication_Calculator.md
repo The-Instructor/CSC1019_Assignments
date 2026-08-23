@@ -1,4 +1,4 @@
-# Assignment 07
+# Multiplication Calculator
 
 Write a program that will accept two numbers as input and show the result of multiplying those two numbers. It should continue until the user enters 0 for **both** terms. In addition to passing all tests, the program _must_ include comments and use good variable names to receive full credit.
 
