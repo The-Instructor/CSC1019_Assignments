@@ -1,6 +1,6 @@
 # CSC1019_Assignments
 This repo includes Assignment instructions for CSC1019 Python.
-Click the chapter heading to view the assignments for that chapter.
+Click the chapter heading to navigate to the assignments folder for that chapter.
 
 ## ![Chapter 1](https://github.com/The-Instructor/CSC1019_Assignments/tree/c2e90cad7574b5b759c006da08b35b5c8f574fa3/Chapter_1)
 Topics: Console input and output
