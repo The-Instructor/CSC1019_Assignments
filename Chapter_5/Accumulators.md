@@ -1,4 +1,4 @@
-# Practice 08
+# Accumulators
 
 Write a program that will ask for 5 test scores and print the average score. ONLY USE ONE INPUT STATEMENT!
 
