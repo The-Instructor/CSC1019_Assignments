@@ -1,6 +1,11 @@
 # CSC1019_Assignments
 This repo includes Assignment instructions for CSC1019 Python.
+
+Before getting started, make sure you have a development environment setup for writing and running code in Python.
+
 Click the chapter heading to navigate to the assignments folder for that chapter.
+
+When you have finished writing and testing your code for each assignment, email the instructor a link to your code repository.
 
 ## ![Chapter 1](https://github.com/The-Instructor/CSC1019_Assignments/tree/c2e90cad7574b5b759c006da08b35b5c8f574fa3/Chapter_1)
 Topics: Console input and output
