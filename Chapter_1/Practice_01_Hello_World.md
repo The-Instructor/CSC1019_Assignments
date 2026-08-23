@@ -1,4 +1,4 @@
-# Practice 01
+# Practice 01 Hello World
 
 Create your first Python program that simply prints out "Hello World!" to the command prompt.
 
