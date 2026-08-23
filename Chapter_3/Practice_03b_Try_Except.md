@@ -1,4 +1,4 @@
-# Practice 03b
+# Practice 03b Try Except
 
 Rewrite the gross pay with overtime program using try and except so that the program handles non-numeric input gracefully by printing a message and exiting the program.
 
