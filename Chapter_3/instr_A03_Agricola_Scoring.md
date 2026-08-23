@@ -1,4 +1,4 @@
-# Assignment 03
+# Agricola Scoring
 
 Agricola is a board game about an unlikely subject: farming in the 17th century. The player start out in a small shack with their spouse and little else, but as the game progresses the player (hopefully) build up the farm into something that the player can look at with pride in the end. Players' final scores represent the quality of their farm, and the player with the best farm wins!
 
