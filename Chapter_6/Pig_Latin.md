@@ -1,4 +1,4 @@
-# Assignment 11
+# Pig Latin
 
 For this assignment, the program will have a function that translates words from English into the made-up language Pig Latin. Write a function called `pig_latin()` that will accept a word and return a modified version according to the following rules:
 
