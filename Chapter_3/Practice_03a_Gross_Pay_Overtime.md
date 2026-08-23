@@ -1,4 +1,4 @@
-# Practice 03a
+# Practice 03a Gross Pay Overtime
 
 Rewrite the gross pay computation to give the employee 1.5 times the hourly rate for hours worked above 40.
 
