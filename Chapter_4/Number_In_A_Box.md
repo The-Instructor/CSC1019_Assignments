@@ -1,4 +1,4 @@
-# Assignment 05
+# Number in a Box
 
 Write a function called `number_in_a_box()` that will accept a single integer as a parameter and print that number surrounded by a box of # characters. The box should always be three lines in height, and there should be one empty space on either side of the number.
 
