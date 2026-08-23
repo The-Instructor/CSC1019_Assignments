@@ -1,4 +1,4 @@
-# Assignment 08
+# Gambling Game
 
 Write a program that will simulate a simple gambling game with the following rules:
 
